@@ -1,2 +1,2 @@
-# connect_assistance
-Connect Assitance | Test
+# Connect Assistance
+Connect Assitance | Technical Test
